@@ -10,4 +10,11 @@
 </div>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hai0z&show_icons=true&locale=en&layout=compact" alt="hai0z" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hai0z&" alt="hai0z" /></p>
+<a href="https://github.com/hai0z">
+<div>
+  <a href="https://github.com/hai0z">
+  <img width= "47%" align="left" src="https://github-readme-stats.vercel.app/api?username=hai0z&show_icons=true&theme=radical&count_private=true" />
+</a>
+<p align="left">
+</p>
+</div>
