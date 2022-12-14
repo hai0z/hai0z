@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @hai0z
+<h1 align="center">Hi 👋, I'm Hai0z</h1>
+<h3 align="center">A passionate frontend developer from VietNam</h3>
+
+- 🌱 I’m currently learning **React Native**
+
+- 💬 Ask me about **react nodejs**
 
 <a href="https://github.com/hai0z">
   <img width= "47%" align="left" src="https://github-readme-stats.vercel.app/api?username=hai0z&show_icons=true&theme=radical&count_private=true" />
