@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **react nodejs**
+- 💬 Ask me about **ReactJs NodeJs**
 
 <a href="https://github.com/hai0z">
   <img width= "47%" align="left" src="https://github-readme-stats.vercel.app/api?username=hai0z&show_icons=true&theme=radical&count_private=true" />
