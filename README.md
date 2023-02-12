@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.lambdatest.com/resources/images/news24.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
