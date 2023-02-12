@@ -12,7 +12,7 @@
 <a href="https://github.com/hai0z">
 <div>
   <a href="https://github.com/hai0z">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hai0z&show_icons=true&theme=radical&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hai0z&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
 <p align="left">
 </p>
