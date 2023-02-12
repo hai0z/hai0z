@@ -1,5 +1,7 @@
 # 💫 About Me:
-><h2>Hi 👋! I'm Hai0z</h2>
+Name: Nguyen Ngoc Hai
+Hobbies: Gaming, Coding
+Loves: Web/Mobile Development.
 
 
 ## 🌐 Socials:
