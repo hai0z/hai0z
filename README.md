@@ -1,7 +1,7 @@
 # 💫 About Me:
-![]<h3>Name: Nguyen Ngoc Hai </h3>
-<h3>Hobbies: Gaming, Coding</h3>
-<h3>Loves: Web/Mobile Development.</h3>
+Name: Nguyen Ngoc Hai <br/>
+Hobbies: Gaming, Coding<br/>
+Loves: Web/Mobile Development
 
 
 ## 🌐 Socials:
