@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h3>Name: Nguyen Ngoc Hai </h3>
+![]<h3>Name: Nguyen Ngoc Hai </h3>
 <h3>Hobbies: Gaming, Coding</h3>
 <h3>Loves: Web/Mobile Development.</h3>
 
